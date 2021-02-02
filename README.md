@@ -1,1 +1,5 @@
-# index
+[cocos小游戏半成品](https://github.com/DDDsergio/cocos-game-1.x)
+[后台demo](http://cms1.bagakhj.com:9090)
+[后台demo](http://cms0.bagakhj.com:9090)
+[后台demo](http://gongwuyuan.bagakhj.com:9090/index)
+[后台原型](https://d2.pub/d2-admin/preview/#/login?redirect=%2Findex)
